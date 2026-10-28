@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**saracco-juan/saracco-juan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...<p align="center">
+<p align="center">
   <img src="./assets/banner.svg" alt="Juan Saracco — Desarrollador de software" width="100%">
 </p>
 
@@ -85,10 +76,3 @@ const juan = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:b967ff,100:ff2a6d&height=120&section=footer&text=¡Gracias%20por%20pasar!&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
