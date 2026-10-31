@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f2f0eb" /></a>
-  <a href="mailto:TU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-e3242b?style=for-the-badge&logo=gmail&logoColor=f2f0eb" /></a>
-  <a href="https://TU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f4fd8?style=for-the-badge&logo=vercel&logoColor=f2f0eb" /></a>
+  <a href="[https://www.linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/juan-saracco/)"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f2f0eb" /></a>
+  <a href="mailto:juansaracco1212@gmail.com"><img src="https://img.shields.io/badge/Email-e3242b?style=for-the-badge&logo=gmail&logoColor=f2f0eb" /></a>
+  <a href="[https://TU-PORTFOLIO.vercel.app](https://portfolio-rouge-one-27.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-1f4fd8?style=for-the-badge&logo=vercel&logoColor=f2f0eb" /></a>
 </p>
 
 ---
@@ -47,40 +47,8 @@ Antes armé emails para **Microsoft** desde **VML**, con Salesforce Marketing Cl
 </p>
 
 `IA generativa` · `Agentes de IA` · `Prompt engineering` · `Rsbuild` · `Microfrontends` · `Module Federation` · `Salesforce Marketing Cloud` · `AEM` · `Marketo` · `GitHub CLI` · `OpenCode` · `Antigravity`
-
-<details>
-<summary><b>¿Cómo trabajo con IA?</b></summary>
-<br/>
-
-```md
-# CONTEXT.md
-## Qué estamos construyendo
-Un componente de checkout dentro de un microfrontend (React + TS).
-
-## Reglas
-- Tipos estrictos, nada de `any`.
-- Componentes chicos y testeables.
-- Accesible por teclado (WCAG AA).
-
-## Fuera de alcance
-- Cambios en el shell / host.
-```
-
-Antes de pedirle código a un agente, le dejo un archivo así. Con reglas claras genera código que puedo mergear, no código que tengo que reescribir.
-</details>
-
 ---
 
-### ◉ Fuera de la terminal
-
-```
-♪  girando     Pink Floyd · Los Redondos · Indio Solari   (en vinilo, restaurados a mano)
-🎬  en loop     Eternal Sunshine of the Spotless Mind · Godard · Scorsese
-📖  leyendo     Dostoievski · Paulo Coelho
-🏎️  domingos    Fórmula 1 · tenis argentino en Copa Davis
-🔴⚪  siempre     Estudiantes de La Plata
-🧉  combustible mate de calabaza
-```
 
 <p align="center"><sub><i>TU VERSO ACÁ: una línea tuya sobre tecnología y existencia.</i></sub></p>
 
