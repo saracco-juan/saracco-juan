@@ -12,13 +12,11 @@
 
 ### ◉ Notas de tapa
 
-Desarrollador de software en **Hitachi Digital** y estudiante de **Analista de Sistemas** en la Escuela Da Vinci.
+Software Developer en **Hitachi Digital** y estudiante de **Analista de Sistemas** en la Escuela Da Vinci.
 
-Mi fuerte hoy es el front (**React, TypeScript, microfrontends**), pero me muevo por todo el stack: backend con Node.js, Java y PHP, IoT y apps completas de punta a punta.
+Me especializo en desarrollo front-end con **React, TypeScript y microfrontends**, y trabajo también en backend con Node.js, Java y PHP, además de proyectos IoT y aplicaciones completas de extremo a extremo.
 
-Antes armé emails para **Microsoft** desde **VML** (Salesforce Marketing Cloud, AEM y Marketo). Ahí aprendí que el HTML de un email no perdona nada.
-
-**Vivo metido en la IA.** Pruebo cada herramienta nueva que sale (OpenCode, Antigravity, agentes desde la terminal) y la sumo a mi forma de trabajar. La uso con método: contexto claro, specs y prompts bien armados, para que sea un multiplicador real y no una lotería.
+Incorporo herramientas de IA generativa y agentes (OpenCode, Antigravity, CLI) a mi flujo de desarrollo, con un enfoque metódico: contexto claro, especificaciones y prompts bien definidos para obtener resultados consistentes y de calidad.
 
 ---
 
@@ -27,7 +25,6 @@ Antes armé emails para **Microsoft** desde **VML** (Salesforce Marketing Cloud,
 | # | Tema | Sello | Año |
 |:-:|---|---|:-:|
 | A1 | **Front-End Developer**: React, TypeScript, microfrontends | Hitachi Digital <sub>(ex GlobalLogic)</sub> | `AÑO`–hoy |
-| A2 | **Email Developer** para Microsoft: SFMC · AEM · Marketo | VML | `AÑO`–`AÑO` |
 
 ### ◉ Lado B — Proyectos
 
@@ -61,9 +58,6 @@ Antes armé emails para **Microsoft** desde **VML** (Salesforce Marketing Cloud,
   <img src="https://img.shields.io/badge/Module_Federation-1f4fd8?style=flat-square" />
   <img src="https://img.shields.io/badge/Rsbuild-1f4fd8?style=flat-square" />
   <br/>
-  <img src="https://img.shields.io/badge/Salesforce_Marketing_Cloud-0b0b0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/AEM-0b0b0b?style=flat-square" />
-  <img src="https://img.shields.io/badge/Marketo-0b0b0b?style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub_CLI-0b0b0b?style=flat-square" />
 </p>
 
