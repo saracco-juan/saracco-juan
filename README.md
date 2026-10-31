@@ -1,78 +1,89 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Juan Saracco — Desarrollador de software" width="100%">
+  <img src="./assets/banner.svg" alt="Juan Saracco — Software Developer" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=%3E+Hola!+Soy+Juan+%F0%9F%91%8B;%3E+Estudiante+en+Escuela+Da+Vinci;%3E+Convierto+caf%C3%A9+en+c%C3%B3digo+%E2%98%95;%3E+Buscando+mi+pr%C3%B3ximo+desaf%C3%ADo+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f2f0eb" /></a>
+  <a href="mailto:TU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-e3242b?style=for-the-badge&logo=gmail&logoColor=f2f0eb" /></a>
+  <a href="https://TU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f4fd8?style=for-the-badge&logo=vercel&logoColor=f2f0eb" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-FF2A6D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://TU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-B967FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=saracco-juan&label=Visitas&color=00f0ff&style=for-the-badge" />
+---
+
+### ◉ Notas de tapa
+
+Desarrollador de software en **Hitachi Digital** y estudiante de **Analista de Sistemas en la Escuela Da Vinci**.
+Hoy mi fuerte es el front (React, TypeScript, microfrontends), pero no me quedo ahí: también hago backend con Node.js, IoT y apps completas de punta a punta.
+Antes armé emails para **Microsoft** desde **VML**, con Salesforce Marketing Cloud, AEM y Marketo: ahí aprendí que el HTML de un email no perdona nada.
+
+**Vivo metido en la IA.** Pruebo cada herramienta nueva que sale y la sumo a mi forma de trabajar (OpenCode, Antigravity y agentes desde la terminal). La uso con método: le doy contexto claro, specs y prompts bien armados para que sea un multiplicador real y no una lotería.
+
+---
+
+### ◉ Lado A — Trabajo
+
+| # | Tema | Sello | Año |
+|:-:|---|---|:-:|
+| A1 | **Front-End Developer**: React, TypeScript, microfrontends | Hitachi Digital <sub>(ex GlobalLogic)</sub> | `AÑO`–hoy |
+| A2 | **Email Developer** para Microsoft: SFMC · AEM · Marketo | VML | `AÑO`–`AÑO` |
+
+### ◉ Lado B — Proyectos
+
+| # | Tema | Notas |
+|:-:|---|---|
+| B1 | [**Td Autos**](https://github.com/saracco-juan/REPO-TD-AUTOS) | Plataforma de autos, mi tesis de Da Vinci. Hecha con [Mariano Giardina Monti](https://github.com/USUARIO-MARIANO). |
+| B2 | [**BeerReady**](https://github.com/saracco-juan/REPO-BEERREADY) | Sistema IoT para monitorear la cerveza en tiempo real. |
+| B3 | [**Inti Cositas Ricas**](https://github.com/saracco-juan/REPO-INTI) | App financiera para un emprendimiento gastronómico. |
+| B4 | [**Launcher minimalista**](https://github.com/saracco-juan/REPO-LAUNCHER) | Un launcher de Android para usar menos el teléfono. Minimalismo digital, en serio. |
+
+---
+
+### ◉ Equipo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,nodejs,html,css&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,bash,git,github,linux&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Disponible%20para%20trabajar-0d0221?style=flat-square&labelColor=0d0221&color=00c853" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Buenos%20Aires%2C%20Argentina-0d0221?style=flat-square" />
-</p>
+`IA generativa` · `Agentes de IA` · `Prompt engineering` · `Rsbuild` · `Microfrontends` · `Module Federation` · `Salesforce Marketing Cloud` · `AEM` · `Marketo` · `GitHub CLI` · `OpenCode` · `Antigravity`
 
-<h2 align="center">🚀 Sobre mí</h2>
+<details>
+<summary><b>¿Cómo trabajo con IA?</b></summary>
+<br/>
 
-```js
-const juan = {
-  rol:          "Desarrollador de software",
-  estudiando:   "TU CARRERA @ Escuela Da Vinci",
-  stack:        ["JavaScript", "React", "Node.js", "SQL"],
-  aprendiendo:  ["TypeScript", "Docker", "Testing"],
-  buscando:     "Mi primer rol como dev (trainee / junior)",
-  dato_curioso: "Si compila en el primer intento, sospecho 🤨",
-};
+```md
+# CONTEXT.md
+## Qué estamos construyendo
+Un componente de checkout dentro de un microfrontend (React + TS).
+
+## Reglas
+- Tipos estrictos, nada de `any`.
+- Componentes chicos y testeables.
+- Accesible por teclado (WCAG AA).
+
+## Fuera de alcance
+- Cambios en el shell / host.
 ```
 
-<h2 align="center">💻 Tech Stack</h2>
+Antes de pedirle código a un agente, le dejo un archivo así. Con reglas claras genera código que puedo mergear, no código que tengo que reescribir.
+</details>
+
+---
+
+### ◉ Fuera de la terminal
+
+```
+♪  girando     Pink Floyd · Los Redondos · Indio Solari   (en vinilo, restaurados a mano)
+🎬  en loop     Eternal Sunshine of the Spotless Mind · Godard · Scorsese
+📖  leyendo     Dostoievski · Paulo Coelho
+🏎️  domingos    Fórmula 1 · tenis argentino en Copa Davis
+🔴⚪  siempre     Estudiantes de La Plata
+🧉  combustible mate de calabaza
+```
+
+<p align="center"><sub><i>TU VERSO ACÁ: una línea tuya sobre tecnología y existencia.</i></sub></p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,git,github,figma,vscode&perline=7&theme=dark" />
-  </a>
-</p>
-
-<h2 align="center">🔥 Proyectos destacados</h2>
-
-<p align="center">
-  <a href="https://github.com/saracco-juan/REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saracco-juan&repo=REPO-1&theme=radical&hide_border=true&bg_color=0d0221" />
-  </a>
-  <a href="https://github.com/saracco-juan/REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saracco-juan&repo=REPO-2&theme=radical&hide_border=true&bg_color=0d0221" />
-  </a>
-</p>
-
-<h2 align="center">📊 Estadísticas</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saracco-juan&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saracco-juan&layout=compact&theme=radical&hide_border=true&bg_color=0d0221" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saracco-juan&theme=radical&hide_border=true&background=0d0221&ring=B967FF&fire=FF2A6D&currStreakLabel=00F0FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saracco-juan&bg_color=0d0221&color=e6edf3&line=b967ff&point=00f0ff&area=true&area_color=ff2a6d&hide_border=true&radius=12" width="100%" />
-</p>
-
-<h2 align="center">🐍 Mis contribuciones, devoradas</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saracco-juan/saracco-juan/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saracco-juan/saracco-juan/output/snake.svg" />
-  <img alt="Animación de la viborita comiéndose mis contribuciones" src="https://raw.githubusercontent.com/saracco-juan/saracco-juan/output/snake-dark.svg" width="100%" />
-</picture>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:b967ff,100:ff2a6d&height=120&section=footer&text=¡Gracias%20por%20pasar!&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saracco-juan&bg_color=0b0b0b&color=8a8780&line=e3242b&point=f2f0eb&area=true&area_color=1f4fd8&hide_border=true&hide_title=true&radius=0" width="100%" />
 </p>
