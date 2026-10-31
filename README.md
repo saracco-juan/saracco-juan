@@ -3,20 +3,22 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/juan-saracco/)"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f2f0eb" /></a>
+  <a href="https://www.linkedin.com/in/juan-saracco/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=f2f0eb" /></a>
   <a href="mailto:juansaracco1212@gmail.com"><img src="https://img.shields.io/badge/Email-e3242b?style=for-the-badge&logo=gmail&logoColor=f2f0eb" /></a>
-  <a href="[https://TU-PORTFOLIO.vercel.app](https://portfolio-rouge-one-27.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-1f4fd8?style=for-the-badge&logo=vercel&logoColor=f2f0eb" /></a>
+  <a href="https://portfolio-rouge-one-27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1f4fd8?style=for-the-badge&logo=vercel&logoColor=f2f0eb" /></a>
 </p>
 
 ---
 
 ### ◉ Notas de tapa
 
-Desarrollador de software en **Hitachi Digital** y estudiante de **Analista de Sistemas en la Escuela Da Vinci**.
-Hoy mi fuerte es el front (React, TypeScript, microfrontends), pero no me quedo ahí: también hago backend con Node.js, IoT y apps completas de punta a punta.
-Antes armé emails para **Microsoft** desde **VML**, con Salesforce Marketing Cloud, AEM y Marketo: ahí aprendí que el HTML de un email no perdona nada.
+Desarrollador de software en **Hitachi Digital** y estudiante de **Analista de Sistemas** en la Escuela Da Vinci.
 
-**Vivo metido en la IA.** Pruebo cada herramienta nueva que sale y la sumo a mi forma de trabajar (OpenCode, Antigravity y agentes desde la terminal). La uso con método: le doy contexto claro, specs y prompts bien armados para que sea un multiplicador real y no una lotería.
+Mi fuerte hoy es el front (**React, TypeScript, microfrontends**), pero me muevo por todo el stack: backend con Node.js, Java y PHP, IoT y apps completas de punta a punta.
+
+Antes armé emails para **Microsoft** desde **VML** (Salesforce Marketing Cloud, AEM y Marketo). Ahí aprendí que el HTML de un email no perdona nada.
+
+**Vivo metido en la IA.** Pruebo cada herramienta nueva que sale (OpenCode, Antigravity, agentes desde la terminal) y la sumo a mi forma de trabajar. La uso con método: contexto claro, specs y prompts bien armados, para que sea un multiplicador real y no una lotería.
 
 ---
 
@@ -31,10 +33,10 @@ Antes armé emails para **Microsoft** desde **VML**, con Salesforce Marketing Cl
 
 | # | Tema | Notas |
 |:-:|---|---|
-| B1 | [**Td Autos**](https://github.com/saracco-juan/REPO-TD-AUTOS) | Plataforma de autos, mi tesis de Da Vinci. Hecha con [Mariano Giardina Monti](https://github.com/USUARIO-MARIANO). |
-| B2 | [**BeerReady**](https://github.com/saracco-juan/REPO-BEERREADY) | Sistema IoT para monitorear la cerveza en tiempo real. |
-| B3 | [**Inti Cositas Ricas**](https://github.com/saracco-juan/REPO-INTI) | App financiera para un emprendimiento gastronómico. |
-| B4 | [**Launcher minimalista**](https://github.com/saracco-juan/REPO-LAUNCHER) | Un launcher de Android para usar menos el teléfono. Minimalismo digital, en serio. |
+| B1 | [**BuenasLecturas**](https://github.com/saracco-juan/BuenasLecturas) | Biblioteca virtual para seguir tus lecturas y escribir reseñas. Spring Boot, login con BCrypt y búsqueda de libros vía Open Library. |
+| B2 | [**GLYPHA**](https://github.com/saracco-juan/GLYPHA) | App Android para explorar y probar tipografías, con favoritos, perfil y panel de administrador. Java + Firebase. |
+| B3 | [**OneUp Gym**](https://github.com/marianogiardina/OneUpGym) | Web de un gimnasio: clases, membresías, calendario e inscripciones, más dashboard de administrador. PHP + Laravel. Hecha junto a [Mariano Giardina Monti](https://github.com/marianogiardina). |
+| B4 | [**Dolar-APP**](https://github.com/juan-saracco/Dolar-APP) · [demo](https://dolar-app.netlify.app/) | Conversor de monedas simple y rápido. HTML, CSS y JavaScript. |
 
 ---
 
@@ -43,12 +45,29 @@ Antes armé emails para **Microsoft** desde **VML**, con Salesforce Marketing Cl
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,nodejs,html,css&theme=dark" />
   <br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,firebase,androidstudio&theme=dark" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=vscode,bash,git,github,linux&theme=dark" />
 </p>
 
-`IA generativa` · `Agentes de IA` · `Prompt engineering` · `Rsbuild` · `Microfrontends` · `Module Federation` · `Salesforce Marketing Cloud` · `AEM` · `Marketo` · `GitHub CLI` · `OpenCode` · `Antigravity`
----
+<p>
+  <img src="https://img.shields.io/badge/IA_generativa-e3242b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentes_de_IA-e3242b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_engineering-e3242b?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCode-0b0b0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Antigravity-0b0b0b?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/Microfrontends-1f4fd8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Module_Federation-1f4fd8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rsbuild-1f4fd8?style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/Salesforce_Marketing_Cloud-0b0b0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/AEM-0b0b0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Marketo-0b0b0b?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub_CLI-0b0b0b?style=flat-square" />
+</p>
 
+---
 
 <p align="center"><sub><i>TU VERSO ACÁ: una línea tuya sobre tecnología y existencia.</i></sub></p>
 
