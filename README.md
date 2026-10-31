@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Juan Saracco — Software Developer" width="100%">
+  <img src="./assets/banner-vinilo.svg" alt="Juan Saracco — Software Developer" width="100%">
 </p>
 
 <p align="center">
